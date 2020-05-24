@@ -1,1 +1,9 @@
 theme: jekyll-theme-midnight
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'redirect'
+      meta_title: true
+      social_media: false
